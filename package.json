@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alaa-elghamry.github.io/Monster-Rolodex/",
+  "homepage": "https://Alaa-Elghamry.github.io/Monster-Rolodex/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
@@ -12,7 +12,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
